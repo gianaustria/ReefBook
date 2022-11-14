@@ -1,0 +1,254 @@
+﻿@model Reefbook.Models.ProfileModel
+
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Reefbook</title>
+    <meta name="generator" content="Bootply" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href="~/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/fontawesome-free-5.11.2-web/css/fontawesome.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link href="~/css/styles.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="wrapper">
+        <div class="box">
+            <div class="row row-offcanvas row-offcanvas-left">
+
+
+                <!-- sidebar -->
+                <div class="column col-sm-2 col-xs-1 sidebar-offcanvas" id="sidebar">
+
+                    <ul class="nav">
+                        <li><a href="#" data-toggle="offcanvas" class="visible-xs text-center"><i class="glyphicon glyphicon-chevron-right"></i></a></li>
+                    </ul>
+
+                    <ul class="nav hidden-xs" id="lg-menu">
+                        <li class="active"><a href="~/Posts/Index"><i class="glyphicon glyphicon-user"></i> Profile </a></li>
+                        <li><a href="~/Store/Index"><i class="glyphicon glyphicon-shopping-cart"></i> Shop </a></li>
+                        <li><a href="~/HomePage/Support"><i class="glyphicon glyphicon-question-sign"></i> Why support our coral reefs?</a></li>
+                        <li><a href="~/HomePage/ReefFeed"><i class="glyphicon glyphicon-comment"></i>ReefFeed</a></li>
+                        <li><a href="~/HomePage/ContactUs"><i class="glyphicon glyphicon-envelope"></i> Contact Us</a></li>
+                    </ul>
+                    <ul class="list-unstyled hidden-xs" id="sidebar-footer">
+                        <li>
+                            <a href="#"><h3>Rb</h3> <i class="glyphicon glyphicon-heart-empty"></i> Reefbook</a>
+                        </li>
+                    </ul>
+
+                    <ul class="nav visible-xs" id="xs-menu">
+                        <li><a href="~/Posts/Index" class="text-center"><i class="glyphicon glyphicon-user"></i></a></li>
+                        <li><a href="~/Store/Index" class="text-center"><i class="glyphicon glyphicon-shopping-cart"></i></a></li>
+                        <li><a href="~/HomePage/Support" class="text-center"><i class="glyphicon glyphicon-question-sign"></i></a></li>
+                        <li><a href="~/HomePage/ReefFeed" class="text-center"><i class="glyphicon glyphicon-comment"></i></a></li>
+                        <li><a href="~/HomePage/ContactUs" class="text-center"><i class="glyphicon glyphicon-envelope"></i></a></li>
+                    </ul>
+
+                </div>
+                <!-- /sidebar -->
+                <!-- main right col -->
+                <div class="column col-sm-10 col-xs-11" id="main">
+
+                    <!-- top nav -->
+                    <div class="navbar navbar-blue navbar-static-top">
+                        <div class="navbar-header">
+                            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".navbar-collapse">
+                                <span class="sr-only">Toggle</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a href="/" class="navbar-brand logo">Rb</a>
+                        </div>
+                        <nav class="collapse navbar-collapse" role="navigation">
+                            <form class="navbar-form navbar-left">
+                                <div class="input-group input-group-sm" style="max-width:360px;">
+                                    <input type="text" class="form-control" placeholder="Search" name="srch-term" id="srch-term">
+                                    <div class="input-group-btn">
+                                        <button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-search"></i></button>
+                                    </div>
+                                </div>
+                            </form>
+                            <ul class="nav navbar-nav">
+                                <li>
+                                    <a href="~/Posts/Index"><i class="glyphicon glyphicon-home"></i> Home</a>
+                                </li>
+                                @if (Session["profileID"] != null)
+                                {
+                                    <li><a href="@Url.Action("UserProfile", "HomePage", new {id = Session["profileID"]})">@ViewBag.User  <i class="glyphicon glyphicon-user"></i></a></li>
+                                }
+                                <li>
+                                    <a href="@Url.Action("Logout","Home")" role="button" data-toggle="modal"><i class="glyphicon glyphicon-log-out"></i> Log-out</a>
+                                </li>
+                            </ul>
+
+                            <ul class="nav navbar-nav navbar-right">
+                                <li class="dropdown">
+                                    <ul class="dropdown-menu">
+                                        <li>
+                                            <a href="#"><i class="glyphicon glyphicon-home"></i> Home</a>
+                                        </li>
+                                        @if (Session["profileID"] != null)
+                                        {
+                                            <li><a href="@Url.Action("UserProfile", "HomePage", new {id = Session["profileID"]})">@ViewBag.User <i class="glyphicon glyphicon-user"></i> </a></li>
+                                        }
+                                        <li>
+                                            <a href="@Url.Action("Logout","Home")" role="button" data-toggle="modal"><i class="glyphicon glyphicon-log-out"></i> Log-out</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </nav>
+                    </div>
+                    <!-- /top nav -->
+
+                    <div class="padding">
+                        <div class="full col-sm-9">
+
+                            <!-- content -->
+                            <div class="row">
+                                <!-- main col left -->
+                                <div>
+                                    <h2>Reefbook Partners</h2>
+                                    <br />
+
+                                    <fieldset>
+                                        <legend>Global Coral Reef Alliance</legend>
+                                        <p>
+                                            The Global Coral Reef Alliance is a worldwide voluntary network of scientists, divers, and communities developing cutting-edge
+                                            methods for restoring and managing coral reefs and marine ecosystems against global warming, sea level rise, pollution, and disease.
+                                            Your donation can be earmarked for a specific project or for general GCRA operating costs. GCRA team members do not receive salaries.
+                                            In order to maximize your donation we always travel, reside and dine in the cheapest economy class services possible. In kind donations
+                                            not earmarked for a specific location are used to cover the internal costs of running the organization (GCRA).
+                                        </p>
+                                        <p>Make a donation <a href="https://www.globalcoral.org/gcra-donation-request-page/"><strong>here</strong></a></p>
+                                    </fieldset>
+                                    <br />
+                                    <fieldset>
+                                        <legend>Marine Conservation Philippines</legend>
+                                        <p>
+                                            The world around us is changing and marine ecosystems are in more peril than ever before. Realizing this urgency, we bring people with
+                                            diverse backgrounds and skills together to build financial, social and scientific capacity to respond to unprecedented threats to food
+                                            security, societal stability and ocean health.
+                                            <br />
+                                            We believe it is our collective responsibility to act and affect meaningful change, and that it is only through the choices we make and
+                                            in how we influence others that we can ensure the world we are building will continue to include thriving and life-supporting marine
+                                            ecosystems.
+                                            <br />
+                                            To realize this vision we will tirelessly work to educate the public and influential decision makers to recognize the immeasurable value
+                                            of the marine ecosystem, vastly improving the societal and natural environment of the Philippines, now and in the future.
+                                            -MCP, Vision
+                                        </p>
+                                        <p>
+                                            <i>
+                                                All donations go to our operational fund. This means that they help us fuel our vehicles, maintain equipment, pay employees, conduct research,
+                                                pay rent and insurance and many other things. If you have anything specific you would like your money to be used for exclusively, you can let us
+                                                know and we’ll honor your wish.
+                                            </i>
+                                        </p>
+                                        <a href="https://www.marineconservationphilippines.org/donate/"> <button type="button">Donate</button></a>
+                                    </fieldset>
+                                    <hr class="alert-dark" />
+                                    <h2>Reef Check Philippines</h2>
+                                    <fieldset>
+                                        <legend>Help save our reefs.</legend>
+                                        <p>
+                                            Save our coral reefs for future generations. Whether they be monetary or in kind, your donations to Reef Check go a long way to help ensure that future
+                                            generations of Filipinos will inherit a healthy and living sea.
+                                        </p>
+                                        <a href="https://www.reefcheckphilippines.org/donate/"> <button type="button">Donate</button></a>
+                                    </fieldset>
+                                    <br />
+                                    <fieldset>
+                                        <legend>Coastal Conservation and Education Foundation, Inc</legend>
+                                        <p>
+                                            Coastal Conservation and Education Foundation has been actively protecting and rehabilitating Philippine marine areas for the past 20 years to ensure
+                                            that our country has sustainable food source. We help coastal communities be resilient to the effects of global warming which affects their livelihood
+                                            and threatens our food supply.
+                                        </p>
+                                        <a href="https://coast.ph/support/#donate"> <button type="button">Donate</button></a>
+                                    </fieldset>
+                                    <br />
+                                    <hr />
+                                    <h2>Philippine Reef Propagation & Rehabilitation  Program</h2>
+                                    <fieldset>
+                                        <legend>Adopt a coral</legend>
+                                        <p>
+                                            This program is offered to individuals wishing to contribute to coral reef protection and rehabilitation. The “Coral Propagating” program is ideal for
+                                            those willing to contribute directly to our projects and can be used as a special gift to loved ones on special occasions like Christmas, birthdays or
+                                            anniversaries!
+                                        </p>
+                                        <a href="https://janetbelarmino.com/get-involved/"> <button type="button">Donate</button></a>
+                                    </fieldset>
+                                </div>
+
+                                <br />
+                                <br />
+                                <br />
+                            </div><!--/row-->
+
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <a href="https://twitter.com/Reefbook1">Twitter</a> <small class="text-muted">|</small> <a href="https://www.facebook.com/Rbook20/">Facebook</a> <small class="text-muted">|</small>
+                                </div>
+                            </div>
+
+                            <div class="row" id="footer">
+                                <div class="col-sm-6">
+
+                                </div>
+                                <div class="col-sm-6">
+                                    <p>
+                                        <a href="#" class="pull-right">©Copyright 2019</a>
+                                    </p>
+                                </div>
+                            </div>
+                            <hr>
+                        </div><!-- /col-9 -->
+                    </div><!-- /padding -->
+                </div>
+                <!-- /main -->
+
+            </div>
+        </div>
+    </div>
+
+    <!--post modal-->
+    <div id="postModal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                    Update Status
+                </div>
+                <div class="modal-body">
+                    <form class="form center-block">
+                        <div class="form-group">
+                            <textarea class="form-control input-lg" autofocus="" placeholder="What do you want to share?"></textarea>
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <div>
+                        <button class="btn btn-primary btn-sm" data-dismiss="modal" aria-hidden="true">Post</button>
+                        <ul class="pull-left list-inline"><li><a href=""><i class="glyphicon glyphicon-upload"></i></a></li><li><a href=""><i class="glyphicon glyphicon-camera"></i></a></li><li><a href=""><i class="glyphicon glyphicon-map-marker"></i></a></li></ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- script references -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+    <script src="~/js/bootstrap.min.js"></script>
+    <script src="~/js/scripts.js"></script>
+</body>
+</html>

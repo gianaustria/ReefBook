@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reefbook", "Reefbook.csproj", "{1CF28BAB-EDAA-4871-AEB0-0C7DD222D7EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CF28BAB-EDAA-4871-AEB0-0C7DD222D7EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CF28BAB-EDAA-4871-AEB0-0C7DD222D7EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CF28BAB-EDAA-4871-AEB0-0C7DD222D7EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CF28BAB-EDAA-4871-AEB0-0C7DD222D7EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6072C483-9574-4F72-A7E5-09F87473BD85}
+	EndGlobalSection
+EndGlobal

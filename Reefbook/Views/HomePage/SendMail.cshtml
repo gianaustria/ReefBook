@@ -1,0 +1,72 @@
+﻿
+@{
+    Layout = null;
+}
+
+@{
+    string Email, Sender = "reefbookmail@gmail.com", SubJect;
+    var Name = "";
+    var errorMessage = "";
+    var debuggingFlag = false;
+    try
+    {
+        //parameters to send email
+
+
+        //Reading values from form collection (Querystring) and assigning values to parameters
+        Name = Request["Name"].ToString();
+        Email = Request["Email"].ToString();
+        SubJect = Request["Feedback"].ToString();
+
+        //Configuring webMail class to send emails
+        WebMail.SmtpServer = "smtp.gmail.com"; //gmail smtp server
+        WebMail.SmtpPort = 587; //gmail port to send emails
+        WebMail.SmtpUseDefaultCredentials = true;
+        WebMail.EnableSsl = true; //sending emails with secure protocol
+        WebMail.UserName = Sender;//EmailId used to send emails from application
+        WebMail.Password = "bookreef1";
+        WebMail.From = Sender; //email sender email address.
+
+        //Sending email
+        WebMail.Send(to: Sender, subject: "Customer Feedback", body: SubJect, isBodyHtml: true);
+        <hr />
+
+    }
+    catch (Exception)
+    {
+        errorMessage = "<div class='text-danger'>" +
+            "Problem while sending email, please check gmail server details." +
+        "</div>";
+    }
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Request for Assistance</title>
+</head>
+<body>
+    <p>Thank you for contacting us, <b>@Name</b>.</p>
+    @if (errorMessage == "")
+    {
+        <p>
+            feedback comment
+        </p>
+        
+    }
+    else
+    {
+        <p><b>The email was <em>not</em> sent.</b></p>
+        <p>
+            Please check that the code in the ProcessRequest page has
+            correct settings for the SMTP server name, a user name,
+            a password, and a "from" address.
+        </p>
+        if (debuggingFlag)
+        {
+            <p>The following error was reported:</p>
+            <p><em>@errorMessage</em></p>
+        }
+    }
+</body>
+</html>

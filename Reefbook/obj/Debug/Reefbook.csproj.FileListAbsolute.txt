@@ -1,0 +1,947 @@
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\Reefbook.dll.config
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\Reefbook.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\Reefbook.pdb
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\csc.exe
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\csc.exe.config
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\csc.rsp
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\csi.exe
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\csi.exe.config
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\csi.rsp
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\System.AppContext.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\System.Console.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\System.IO.Compression.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\System.Security.Claims.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\System.ValueTuple.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\vbc.exe
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\vbc.exe.config
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\vbc.rsp
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\VBCSCompiler.exe
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\Antlr3.Runtime.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\Newtonsoft.Json.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\System.Web.Helpers.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\System.Web.Mvc.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\System.Web.Optimization.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\System.Web.Razor.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\System.Web.WebPages.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\System.Web.WebPages.Razor.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\WebGrease.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\System.Web.Helpers.xml
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\System.Web.Mvc.xml
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\System.Web.Optimization.xml
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\System.Web.Razor.xml
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\System.Web.WebPages.xml
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\System.Web.WebPages.Razor.xml
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\Newtonsoft.Json.xml
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\Antlr3.Runtime.pdb
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\obj\Debug\Reefbook.csprojAssemblyReference.cache
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\obj\Debug\Reefbook.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\obj\Debug\Reefbook.csproj.CopyComplete
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\obj\Debug\Reefbook.dll
+C:\Users\Adrian\source\repos\Reefbook\Reefbook\obj\Debug\Reefbook.pdb
+D:\ReefBookMVC\Reefbook\Reefbook\bin\Reefbook.dll.config
+D:\ReefBookMVC\Reefbook\Reefbook\bin\Reefbook.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\Reefbook.pdb
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\csc.exe
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\csc.exe.config
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\csc.rsp
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\csi.exe
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\csi.exe.config
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\csi.rsp
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.AppContext.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Collections.Immutable.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Console.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.IO.Compression.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.IO.FileSystem.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Reflection.Metadata.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.ValueTuple.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Xml.XPath.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\vbc.exe
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\vbc.exe.config
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\vbc.rsp
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\VBCSCompiler.exe
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\VBCSCompiler.exe.config
+D:\ReefBookMVC\Reefbook\Reefbook\bin\Antlr3.Runtime.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\Microsoft.Web.Infrastructure.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\Newtonsoft.Json.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\System.Web.Helpers.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\System.Web.Mvc.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\System.Web.Optimization.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\System.Web.Razor.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\System.Web.WebPages.Deployment.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\System.Web.WebPages.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\System.Web.WebPages.Razor.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\WebGrease.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\System.Web.Helpers.xml
+D:\ReefBookMVC\Reefbook\Reefbook\bin\System.Web.Mvc.xml
+D:\ReefBookMVC\Reefbook\Reefbook\bin\System.Web.Optimization.xml
+D:\ReefBookMVC\Reefbook\Reefbook\bin\System.Web.Razor.xml
+D:\ReefBookMVC\Reefbook\Reefbook\bin\System.Web.WebPages.xml
+D:\ReefBookMVC\Reefbook\Reefbook\bin\System.Web.WebPages.Deployment.xml
+D:\ReefBookMVC\Reefbook\Reefbook\bin\System.Web.WebPages.Razor.xml
+D:\ReefBookMVC\Reefbook\Reefbook\bin\Newtonsoft.Json.xml
+D:\ReefBookMVC\Reefbook\Reefbook\bin\Antlr3.Runtime.pdb
+D:\ReefBookMVC\Reefbook\Reefbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ReefBookMVC\Reefbook\Reefbook\obj\Debug\Reefbook.csprojAssemblyReference.cache
+D:\ReefBookMVC\Reefbook\Reefbook\obj\Debug\Reefbook.csproj.CoreCompileInputs.cache
+D:\ReefBookMVC\Reefbook\Reefbook\obj\Debug\Reefbook.csproj.CopyComplete
+D:\ReefBookMVC\Reefbook\Reefbook\obj\Debug\Reefbook.dll
+D:\ReefBookMVC\Reefbook\Reefbook\obj\Debug\Reefbook.pdb
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Globalization.Calendars.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Net.Http.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Net.Sockets.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\Reefbook.dll.config
+E:\ReefBookMVC\Reefbook\Reefbook\bin\Reefbook.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\Reefbook.pdb
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\csc.exe
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\csc.exe.config
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\csc.rsp
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\csi.exe
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\csi.exe.config
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\csi.rsp
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.AppContext.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Collections.Immutable.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Console.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Globalization.Calendars.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.IO.Compression.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.IO.FileSystem.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Net.Http.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Net.Sockets.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Reflection.Metadata.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.ValueTuple.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Xml.XPath.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\vbc.exe
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\vbc.exe.config
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\vbc.rsp
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\VBCSCompiler.exe
+E:\ReefBookMVC\Reefbook\Reefbook\bin\roslyn\VBCSCompiler.exe.config
+E:\ReefBookMVC\Reefbook\Reefbook\bin\Antlr3.Runtime.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\Microsoft.Web.Infrastructure.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\Newtonsoft.Json.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\System.Web.Helpers.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\System.Web.Mvc.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\System.Web.Optimization.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\System.Web.Razor.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\System.Web.WebPages.Deployment.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\System.Web.WebPages.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\System.Web.WebPages.Razor.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\WebGrease.dll
+E:\ReefBookMVC\Reefbook\Reefbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ReefBookMVC\Reefbook\Reefbook\bin\Newtonsoft.Json.xml
+E:\ReefBookMVC\Reefbook\Reefbook\bin\System.Web.Helpers.xml
+E:\ReefBookMVC\Reefbook\Reefbook\bin\System.Web.Mvc.xml
+E:\ReefBookMVC\Reefbook\Reefbook\bin\System.Web.Optimization.xml
+E:\ReefBookMVC\Reefbook\Reefbook\bin\System.Web.Razor.xml
+E:\ReefBookMVC\Reefbook\Reefbook\bin\System.Web.WebPages.xml
+E:\ReefBookMVC\Reefbook\Reefbook\bin\System.Web.WebPages.Deployment.xml
+E:\ReefBookMVC\Reefbook\Reefbook\bin\System.Web.WebPages.Razor.xml
+E:\ReefBookMVC\Reefbook\Reefbook\bin\Antlr3.Runtime.pdb
+E:\ReefBookMVC\Reefbook\Reefbook\obj\Debug\Reefbook.csprojResolveAssemblyReference.cache
+E:\ReefBookMVC\Reefbook\Reefbook\obj\Debug\Reefbook.csproj.CoreCompileInputs.cache
+E:\ReefBookMVC\Reefbook\Reefbook\obj\Debug\Reefbook.dll
+E:\ReefBookMVC\Reefbook\Reefbook\obj\Debug\Reefbook.pdb
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\Reefbook.dll.config
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\Reefbook.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\Reefbook.pdb
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\csc.exe
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\csc.exe.config
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\csc.rsp
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\csi.exe
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\csi.exe.config
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\csi.rsp
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\System.AppContext.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\System.Console.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\System.Net.Http.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\vbc.exe
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\vbc.exe.config
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\vbc.rsp
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\Antlr3.Runtime.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\Newtonsoft.Json.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\System.Web.Helpers.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\System.Web.Mvc.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\System.Web.Optimization.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\System.Web.Razor.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\System.Web.WebPages.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\WebGrease.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\Newtonsoft.Json.xml
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\System.Web.Helpers.xml
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\System.Web.Mvc.xml
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\System.Web.Optimization.xml
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\System.Web.Razor.xml
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\System.Web.WebPages.xml
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gian\Desktop\Reefbook\Reefbook\bin\Antlr3.Runtime.pdb
+C:\Users\Gian\Desktop\Reefbook\Reefbook\obj\Debug\Reefbook.csprojAssemblyReference.cache
+C:\Users\Gian\Desktop\Reefbook\Reefbook\obj\Debug\Reefbook.csproj.CoreCompileInputs.cache
+C:\Users\Gian\Desktop\Reefbook\Reefbook\obj\Debug\Reefbook.csproj.CopyComplete
+C:\Users\Gian\Desktop\Reefbook\Reefbook\obj\Debug\Reefbook.dll
+C:\Users\Gian\Desktop\Reefbook\Reefbook\obj\Debug\Reefbook.pdb
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\Reefbook.dll.config
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\Reefbook.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\Reefbook.pdb
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\csc.exe
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\csc.exe.config
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\csc.rsp
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\csi.exe
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\csi.exe.config
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\csi.rsp
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\System.AppContext.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\System.Console.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\System.IO.Compression.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\System.Net.Http.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\System.ValueTuple.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\vbc.exe
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\vbc.exe.config
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\vbc.rsp
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\VBCSCompiler.exe
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\Antlr3.Runtime.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\Newtonsoft.Json.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\System.Web.Helpers.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\System.Web.Mvc.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\System.Web.Optimization.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\System.Web.Razor.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\System.Web.WebPages.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\System.Web.WebPages.Razor.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\WebGrease.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\Newtonsoft.Json.xml
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\System.Web.Helpers.xml
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\System.Web.Mvc.xml
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\System.Web.Optimization.xml
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\System.Web.Razor.xml
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\System.Web.WebPages.xml
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\System.Web.WebPages.Razor.xml
+C:\Users\Leez\Desktop\Reefbook\Reefbook\bin\Antlr3.Runtime.pdb
+C:\Users\Leez\Desktop\Reefbook\Reefbook\obj\Debug\Reefbook.csprojAssemblyReference.cache
+C:\Users\Leez\Desktop\Reefbook\Reefbook\obj\Debug\Reefbook.csproj.CoreCompileInputs.cache
+C:\Users\Leez\Desktop\Reefbook\Reefbook\obj\Debug\Reefbook.csproj.CopyComplete
+C:\Users\Leez\Desktop\Reefbook\Reefbook\obj\Debug\Reefbook.dll
+C:\Users\Leez\Desktop\Reefbook\Reefbook\obj\Debug\Reefbook.pdb
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\Reefbook.dll.config
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\Reefbook.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\Reefbook.pdb
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\csc.exe
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\csi.exe
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\WebGrease.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\obj\Debug\Reefbook.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\obj\Debug\Reefbook.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\obj\Debug\Reefbook.csproj.CopyComplete
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\obj\Debug\Reefbook.dll
+C:\Users\user\Desktop\Reefbook\Reefbook\Reefbook\obj\Debug\Reefbook.pdb
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\Reefbook.dll.config
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\Reefbook.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\Reefbook.pdb
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\csc.exe
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\csc.exe.config
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\csc.rsp
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\csi.exe
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\csi.exe.config
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\csi.rsp
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\System.AppContext.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Console.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\System.IO.Compression.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Net.Http.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Net.Sockets.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\System.ValueTuple.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Xml.XPath.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\vbc.exe
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\vbc.exe.config
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\vbc.rsp
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\VBCSCompiler.exe
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\Antlr3.Runtime.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\Newtonsoft.Json.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\System.Web.Helpers.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\System.Web.Mvc.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\System.Web.Optimization.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\System.Web.Razor.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\System.Web.WebPages.Deployment.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\System.Web.WebPages.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\System.Web.WebPages.Razor.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\WebGrease.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\Newtonsoft.Json.xml
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\System.Web.Helpers.xml
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\System.Web.Mvc.xml
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\System.Web.Optimization.xml
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\System.Web.Razor.xml
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\System.Web.WebPages.xml
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\System.Web.WebPages.Deployment.xml
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\System.Web.WebPages.Razor.xml
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\bin\Antlr3.Runtime.pdb
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\obj\Debug\Reefbook.csprojResolveAssemblyReference.cache
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\obj\Debug\Reefbook.csproj.CoreCompileInputs.cache
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\obj\Debug\Reefbook.dll
+C:\Users\11818368\Desktop\Reefbook\Reefbook\Reefbook\Reefbook\obj\Debug\Reefbook.pdb
+C:\Users\Leez\Desktop\ENTPROG UPDATE\Reefbook\Reefbook\Reefbook\Reefbook\obj\Debug\Reefbook.csprojAssemblyReference.cache
+C:\Users\Leez\Desktop\ENTPROG UPDATE\Reefbook\Reefbook\Reefbook\Reefbook\obj\Debug\Reefbook.dll
+C:\Users\Leez\Desktop\ENTPROG UPDATE\Reefbook\Reefbook\Reefbook\Reefbook\obj\Debug\Reefbook.pdb
+C:\Users\Leez\Desktop\ENTPROG UPDATE\Reefbook v1.3\Reefbook\Reefbook\Reefbook\obj\Debug\Reefbook.csprojAssemblyReference.cache
+C:\Users\Leez\Desktop\ENTPROG UPDATE\Reefbook v1.3\Reefbook\Reefbook\Reefbook\obj\Debug\Reefbook.dll
+C:\Users\Leez\Desktop\ENTPROG UPDATE\Reefbook v1.3\Reefbook\Reefbook\Reefbook\obj\Debug\Reefbook.pdb
+C:\Users\Chise\Desktop\Reefbook v1.3 [Contact Us Error]\Reefbook v1.3 [Contact Us Error]\Reefbook\Reefbook\Reefbook\obj\Debug\Reefbook.csprojAssemblyReference.cache
+C:\Users\Chise\Desktop\Reefbook v1.3 [Contact Us Error]\Reefbook v1.3 [Contact Us Error]\Reefbook\Reefbook\Reefbook\obj\Debug\Reefbook.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Contact Us Error]\Reefbook v1.3 [Contact Us Error]\Reefbook\Reefbook\Reefbook\obj\Debug\Reefbook.pdb
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\obj\Debug\Reefbook.csprojAssemblyReference.cache
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\obj\Debug\Reefbook.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\obj\Debug\Reefbook.pdb
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\Reefbook.dll.config
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\Reefbook.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\Reefbook.pdb
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\csc.exe
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\csc.exe.config
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\csc.rsp
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\csi.exe
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\csi.exe.config
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\csi.rsp
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\System.AppContext.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\System.Console.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\System.IO.Compression.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\System.Net.Http.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\System.ValueTuple.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\vbc.exe
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\vbc.exe.config
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\vbc.rsp
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\VBCSCompiler.exe
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\Antlr3.Runtime.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\Newtonsoft.Json.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\System.Web.Helpers.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\System.Web.Mvc.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\System.Web.Optimization.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\System.Web.Razor.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\System.Web.WebPages.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\System.Web.WebPages.Razor.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\WebGrease.dll
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\Newtonsoft.Json.xml
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\System.Web.Helpers.xml
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\System.Web.Mvc.xml
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\System.Web.Optimization.xml
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\System.Web.Razor.xml
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\System.Web.WebPages.xml
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\System.Web.WebPages.Razor.xml
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\bin\Antlr3.Runtime.pdb
+C:\Users\Chise\Desktop\Reefbook v1.3 [Error]\Reefbook\Reefbook\obj\Debug\Reefbook.csproj.CopyComplete
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\Reefbook.dll.config
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\Reefbook.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\Reefbook.pdb
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\csc.exe
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\csc.exe.config
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\csc.rsp
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\csi.exe
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\csi.exe.config
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\csi.rsp
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.AppContext.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Console.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Net.Http.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\vbc.exe
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\vbc.exe.config
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\vbc.rsp
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\Antlr3.Runtime.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\Newtonsoft.Json.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.Helpers.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.Mvc.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.Optimization.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.Razor.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.WebPages.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\WebGrease.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\Newtonsoft.Json.xml
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.Helpers.xml
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.Mvc.xml
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.Optimization.xml
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.Razor.xml
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.WebPages.xml
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\bin\Antlr3.Runtime.pdb
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\obj\Debug\Reefbook.csprojAssemblyReference.cache
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\obj\Debug\Reefbook.csproj.CopyComplete
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\obj\Debug\Reefbook.dll
+C:\Users\Gian\Downloads\Reefbook_1208\Reefbook\Reefbook\obj\Debug\Reefbook.pdb
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\Reefbook.dll.config
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\Reefbook.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\Reefbook.pdb
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\csc.exe
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\csc.exe.config
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\csc.rsp
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\csi.exe
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\csi.exe.config
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\csi.rsp
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.AppContext.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Console.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.IO.Compression.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Net.Http.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.ValueTuple.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\vbc.exe
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\vbc.exe.config
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\vbc.rsp
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\VBCSCompiler.exe
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\Antlr3.Runtime.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\Newtonsoft.Json.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.Helpers.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.Mvc.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.Optimization.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.Razor.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.WebPages.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.WebPages.Razor.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\WebGrease.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\Newtonsoft.Json.xml
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.Helpers.xml
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.Mvc.xml
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.Optimization.xml
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.Razor.xml
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.WebPages.xml
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.WebPages.Razor.xml
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\bin\Antlr3.Runtime.pdb
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\obj\Debug\Reefbook.csprojAssemblyReference.cache
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\obj\Debug\Reefbook.csproj.CopyComplete
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\obj\Debug\Reefbook.dll
+C:\Users\Brent\Desktop\ENTPROG\Reefbook_1209_WithDesign\Reefbook_1208\Reefbook\Reefbook\obj\Debug\Reefbook.pdb
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\Reefbook.dll.config
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\Reefbook.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\Reefbook.pdb
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\csc.exe
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\csc.exe.config
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\csc.rsp
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\csi.exe
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\csi.exe.config
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\csi.rsp
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.AppContext.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Console.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Net.Http.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\vbc.exe
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\vbc.exe.config
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\vbc.rsp
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\Antlr3.Runtime.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\Newtonsoft.Json.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.Helpers.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.Mvc.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.Optimization.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.Razor.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.WebPages.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\WebGrease.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\Newtonsoft.Json.xml
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.Helpers.xml
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.Mvc.xml
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.Optimization.xml
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.Razor.xml
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.WebPages.xml
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\Antlr3.Runtime.pdb
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\obj\Debug\Reefbook.csprojAssemblyReference.cache
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\obj\Debug\Reefbook.csproj.CopyComplete
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\obj\Debug\Reefbook.dll
+C:\Users\Gian\Downloads\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\obj\Debug\Reefbook.pdb
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\Reefbook.dll.config
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\Reefbook.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\Reefbook.pdb
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\csc.exe
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\csc.exe.config
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\csc.rsp
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\csi.exe
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\csi.exe.config
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\csi.rsp
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.AppContext.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Console.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.IO.Compression.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Net.Http.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.ValueTuple.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\vbc.exe
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\vbc.exe.config
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\vbc.rsp
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\VBCSCompiler.exe
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\Antlr3.Runtime.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\Newtonsoft.Json.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.Helpers.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.Mvc.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.Optimization.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.Razor.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.WebPages.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.WebPages.Razor.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\WebGrease.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\Newtonsoft.Json.xml
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.Helpers.xml
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.Mvc.xml
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.Optimization.xml
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.Razor.xml
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.WebPages.xml
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\System.Web.WebPages.Razor.xml
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\bin\Antlr3.Runtime.pdb
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\obj\Debug\Reefbook.csprojAssemblyReference.cache
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\obj\Debug\Reefbook.csproj.CopyComplete
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\obj\Debug\Reefbook.dll
+C:\Users\Brent\Desktop\Reefbook_FINAL_pt.2 (1)\Reefbook_FINAL_pt.1\Reefbook_1208\Reefbook\Reefbook\obj\Debug\Reefbook.pdb
